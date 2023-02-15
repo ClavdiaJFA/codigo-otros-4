@@ -1,3 +1,7 @@
+/*
+Identifiqué varios errores, pero tuve problemas para ejecutarlo en la consola. Me ayudé de otros códigos de Java para segurarme de que estuviera correcto.
+*/
+
 package com.generation;
 
 import java.util.Scanner; //faltaba importar Scanner
